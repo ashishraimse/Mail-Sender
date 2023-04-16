@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sanskar Invitation</string>
+    <string name="here">here....</string>
+    <string name="paste_email_here">Paste email here</string>
+    <string name="send">Send</string>
+    <string name="name_here">Name Here</string>
+</resources>
